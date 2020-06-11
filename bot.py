@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     level = logging.INFO)
 logger = logging.getLogger(__name__)
 
-Token = "1105619011:AAFU7be4LldwuVsI1t0mMm_zsVSETT-Kou4"
+Token = "Token Goes Here"
 
 app  = Flask(__name__)
 @app.route('/')
